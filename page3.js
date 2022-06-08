@@ -24,8 +24,8 @@ function getImage(id){
     case 'canario-da-terra':
       idfile = './assets/img/canario-da-terra.webp';
       break;
-    case 'choco-dorminhoco':
-      idfile = './assets/img/choco-dorminhoco.webp';
+    case 'soco-dorminhoco':
+      idfile = './assets/img/soco-dorminhoco.webp';
       break;
     case 'coleirinha':
       idfile = './assets/img/coleirinha.webp';
